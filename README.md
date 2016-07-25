@@ -1,3 +1,7 @@
+# THIS PROJECT IS DEPRECATED
+dropwizard-playdead is no longer maintained, and **this** repository will be removed from GitHub on or after January 25, 2017. Published release artifacts will **continue** to be available indefinitely via
+[Bintray JCenter](https://bintray.com/bintray/jcenter?filterByPkgName=dropwizard-playdead).
+
 # DropWizard PlayDead
 
 ## Introduction
